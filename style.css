@@ -1,0 +1,54 @@
+<style>
+        img{
+            width: 50%;
+            height: 50%;;
+        }
+        p{
+            color:black;
+            font-size:100%;
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        }
+        a{
+            color: yellow;
+            background-color: black;
+        }
+        #citizen{
+            color:black;
+            font font-family:sans-serif;
+        }
+        #birthday{
+            color: orangered;
+        }
+        .friend{
+            background-color: greenyellow;
+            color: grey;
+        }
+        .month{
+            color: khaki;
+        }
+        #rishad{
+            color: red;
+        }
+        .blog{
+            background-color: rosybrown;
+            border:5px solid saddlebrown;
+            margin: 1%;
+            border-radius: 20px;
+            width: 28%;
+            padding: 1%;
+            float: left;
+        }
+        #kolaboti{
+            border: 5px solid saddlebrown;
+            margin-left: 200px;
+        }
+        .sajek{
+            text-align: center;
+        }
+        .center{
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+            width: 50%;
+        }
+    </style>
