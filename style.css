@@ -1,4 +1,3 @@
-<style>
         img{
             width: 50%;
             height: 50%;;
@@ -14,7 +13,7 @@
         }
         #citizen{
             color:black;
-            font font-family:sans-serif;
+            font-family: sans-serif;
         }
         #birthday{
             color: orangered;
@@ -51,4 +50,3 @@
             margin-left: auto;
             width: 50%;
         }
-    </style>
